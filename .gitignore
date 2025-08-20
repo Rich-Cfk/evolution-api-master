@@ -1,0 +1,6 @@
+.vscode
+.vscode/**
+.docker/certs/**
+.docker/nginx/html/**
+.docker/nginx/vhost.d/**
+.env
